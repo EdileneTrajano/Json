@@ -4,12 +4,12 @@
         {"id":1,
         "nome":"Alcatra", 
         "Alcatra":"isca de alcatra, feijao, farofa, arroz branco e batata frita",
-        "preço": 52,90},
+        "preço": 52.90},
 
         {"id":2,
         "nome":"Parmegiana",
         "Alcatra":"Parmegiana, queijo mussarela, parmesão, acompanhamento de arroz branco e batata frita",
-        "preço": 46,20},
+        "preço": 46.20},
 
         {"id":3,
         "nome":"Estrogonofe de Frango", 
@@ -19,7 +19,7 @@
          {"id":4,
         "nome":"Risoto de Camarão", 
         "Risoto de Camarao":"Camarao sem casca, molho sugo, tomate picado, ervilha, arroz branco e parmesão ralado",
-        "preço": 40,90}
+        "preço": 40.90}
 
     ],
     
