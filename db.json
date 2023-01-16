@@ -9,17 +9,17 @@
         {"id":2,
         "nome":"Parmegiana",
         "Alcatra":"Parmegiana, queijo mussarela, parmesão, acompanhamento de arroz branco e batata frita",
-        "preço": 46,20,}
+        "preço": 46,20},
 
         {"id":3,
         "nome":"Estrogonofe de Frango", 
         "Estrogonofe de Frango":"Arroz branco, batata e isca de frango",
-        "preco": 30,}
+        "preco": 30},
 
          {"id":4,
         "nome":"Risoto de Camarão", 
         "Risoto de Camarao":"Camarao sem casca, molho sugo, tomate picado, ervilha, arroz branco e parmesão ralado",
-        "preço": 40,90,}
+        "preço": 40,90},
 
     ]
     
@@ -27,20 +27,20 @@
 
         {"id":1,
         "nome": "Coca-Cola",
-        "preco": 5.5,}
+        "preco": 5.5},
 
          {"id":2,
         "nome": "Água",
-        "preco": 2.5,}
+        "preco": 2.5},
 
         
          {"id":3,
         "nome": "guaraná",
-        "preco": 4.5,}
+        "preco": 4.5},
 
           {"id":4,
         "nome": "Chá gelado",
-        "preco": 5,}
+        "preco": 5},
 
    ]
 
@@ -48,19 +48,19 @@
     
     {"id":1,
         "nome": "Tortinha de limao",
-        "preco": 6.5,}
+        "preco": 6.5},
 
         {"id":2,
         "nome": "Rato de maracujá",
-        "preco": 5.5,}
+        "preco": 5.5},
 
         {"id":3,
         "nome": "Fatia Bombom",
-        "preco": 5.5,}
+        "preco": 5.5},
 
          {"id":3,
         "nome": "Pavimentar",
-        "preco": 5.5,}
+        "preco": 5.5},
 
 
 
